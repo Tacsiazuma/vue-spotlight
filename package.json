@@ -1,6 +1,6 @@
 {
   "name": "vue-spotlight",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "A macOS like spotlight search widget.",
   "main": "dist/vue-spotlight.js",
   "scripts": {
